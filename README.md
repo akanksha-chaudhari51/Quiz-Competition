@@ -1,17 +1,14 @@
-# 📊 Quiz Competition | Python CLI Application
+# Quiz Competition | Python CLI Application
 
-A terminal-based General Knowledge quiz application built using Python. This interactive CLI tool is designed to test your knowledge across diverse topics such as geography, history, science, and global events through a series of multiple-choice questions. Perfect for trivia enthusiasts and learners looking to challenge their general knowledge!
+A terminal-based General Knowledge quiz built with Python to test your knowledge across geography, history, science, and global events through interactive multiple-choice questions.
 
 ---
 
-## 📌 Project Overview
+## 📌 Overview
 
-The General Knowledge Quiz Competition CLI App provides:
-- A lightweight, interactive quiz environment in the terminal
-- Real-time feedback and scoring after each question
-- A personalized final score with a performance rating
-
-Ideal for anyone looking to test their general knowledge in a fun, engaging way.
+- Lightweight CLI quiz environment
+- Real-time scoring and feedback
+- Personalized results with performance ratings
 
 ---
 
@@ -27,12 +24,11 @@ Ideal for anyone looking to test their general knowledge in a fun, engaging way.
 
 ## 🎯 Key Features
 
-- 10 general knowledge multiple-choice questions
-- Real-time scoring: +2 for correct answers, -1 for incorrect answers
-- Personalized experience with user name input
-- Score-based performance rating: Excellent (≥18), Good (≥12), Average (≥8), Below Average (≥4), Poor (<4)
-- Covers geography, history, science, and global events
-- No external libraries or dependencies required
+- 10 multiple-choice questions
+- Scoring: +2 for correct, -1 for incorrect
+- Personalized user experience
+- Performance ratings: Excellent (≥18), Good (≥12), Average (≥8), Below Average (≥4), Poor (<4)
+- No external dependencies
 
 ---
 
@@ -61,6 +57,6 @@ Ideal for anyone looking to test their general knowledge in a fun, engaging way.
 
 Follow the CLI instructions:
 - Enter your name
-- Confirm if you're ready to start (type "Yes" or "No")
-- Answer each of the 10 multiple-choice questions (A, B, C, or D)
-- View your final score and performance rating
+- Confirm readiness (Yes/No)
+- Answer 10 questions (A, B, C, or D)
+- View your score and performance rating
