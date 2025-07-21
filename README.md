@@ -29,10 +29,10 @@ A terminal-based General Knowledge quiz built with Python to test your knowledge
 
 ## 🧪 Installation & Execution
 
-### ✅ Prerequisites
+### Prerequisites
 - Python 3.x must be installed and added to your system's PATH
 
-### 💻 Run the Application
+###  Run the Application
 
   ```bash
   # 1. Clone the repository
