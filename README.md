@@ -1,35 +1,22 @@
-# Quiz Competition | Python CLI Application
+# Quiz Competition | Python CLI App
 
-A terminal-based General Knowledge quiz built with Python to test your knowledge across geography, history, science, and global events through interactive multiple-choice questions.
+## 📋 Overview
+A lightweight, terminal-based General Knowledge quiz built with Python, delivering engaging multiple-choice questions across geography, history, science, and current events. It features real-time scoring and personalized feedback for an interactive learning experience.
 
-## 📌 Overview
+## 🚀 Features
+- Diverse question bank covering geography, history, science, and global events
+- Intuitive CLI with multiple-choice interface
+- Real-time score tracking
+- Personalized performance feedback
+- Minimal design with no external dependencies
 
-- Lightweight CLI quiz environment
-- Real-time scoring and feedback
-- Personalized results with performance ratings
+## 🛠 Tech Stack
+- **Language:** Python 3.12+
+- **Interface:** Command-Line Interface (CLI)
+- **Tools:** Supports modern IDEs (VS Code, PyCharm, etc.)
 
-## 🛠️ Tech Stack
-
-| Technology        | Purpose                                  |
-|-------------------|------------------------------------------|
-| Python 3          | Core programming language                |
-| Terminal / CLI    | User interaction interface               |
-| Built-in Functions| `input()`, `print()`, conditionals, etc. |
-
-## 🎯 Key Features
-
-- 10 multiple-choice questions
-- Scoring: +2 for correct, -1 for incorrect
-- Personalized user experience
-- Performance ratings: Excellent (≥18), Good (≥12), Average (≥8), Below Average (≥4), Poor (<4)
-- No external dependencies
-
-## 📚 Topics Covered
-**· Geography · History · Science · Global Events**
-
-## 🚀 Usage
-- Run quiz.py
-- Enter your name
-- Confirm readiness (Yes/No)
-- Answer 10 questions (A, B, C, or D)
-- View your score and performance rating
+## 📥 Usage
+- Clone the repo: git clone <repository-url>
+- Run the script: python quiz.py
+- Enter name and readiness (e.g., “Jane Doe, Yes”)
+- Answer questions and view your score
